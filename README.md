@@ -12,9 +12,7 @@ A wrapper of [elevator.js](https://github.com/tholman/elevator.js) in Vue
 
 ## Demo
 
-[Show me the code, or demo it](https://weichiachang.github.io/vue-elevator/dist/)
-
-Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
+[Show me the code, or demo it](https://weichiachang.github.io/vue-elevator/dist/) ![turtle](http://i.imgur.com/879dfXS.gif)
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
