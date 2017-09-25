@@ -6,7 +6,7 @@ A wrapper of [elevator.js](https://github.com/tholman/elevator.js) in Vue
 
 <p align="center">
   <a target="_blank" href="https://github.com/WeiChiaChang/vue-elevator">
-    <img alt="vue2-github-corners" src="https://i.imgur.com/yW06MbJ.gif">
+    <img alt="vue2-github-corners" src="https://i.imgur.com/Jra7sKq.gif">
   </a>
 </p>
 
