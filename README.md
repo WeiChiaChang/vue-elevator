@@ -14,6 +14,16 @@ A wrapper of [elevator.js](https://github.com/tholman/elevator.js) in Vue
 
 [Show me the code, or demo it](https://weichiachang.github.io/vue-elevator/dist/)
 
+Everything all done now! ![turtle](http://i.imgur.com/879dfXS.gif)
+
+<p align="center">
+  <a target="_blank" href="https://github.com/WeiChiaChang/easter-egg-collection">
+    <img alt="easter-egg-collection" src="https://i.imgur.com/AzRZ3rB.png">
+  </a>
+</p>
+
+> Image Original Source From [Awesome Egoist](https://github.com/egoist/evangelion-card)! Thank you!
+
 ## Installation
 
 ```
