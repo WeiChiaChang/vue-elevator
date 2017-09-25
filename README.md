@@ -12,7 +12,7 @@ A wrapper of [elevator.js](https://github.com/tholman/elevator.js) in Vue
 
 ## Demo
 
-[Show me the code, or demo it](https://git.io/v5jH6)
+[Show me the code, or demo it](https://weichiachang.github.io/vue-elevator/dist/)
 
 ## Installation
 
