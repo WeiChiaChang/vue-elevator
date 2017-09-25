@@ -17,7 +17,8 @@ A wrapper of [elevator.js](https://github.com/tholman/elevator.js) in Vue
 ## Installation
 
 ```
-npm install --save vue-elevator
+npm i elevator.js
+npm i --save vue-elevator
 ```
 
 ## Usage
