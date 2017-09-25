@@ -1,4 +1,4 @@
-# vue2-github-corners
+# vue-elevator
 
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
 
