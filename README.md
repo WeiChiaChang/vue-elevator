@@ -20,7 +20,7 @@ A wrapper of [elevator.js](https://github.com/tholman/elevator.js) in Vue
   </a>
 </p>
 
-> Image Original Source From [Awesome Egoist](https://github.com/egoist/evangelion-card)! Thank you!
+> Image Original Source From [Awesome Egoist](https://github.com/egoist/evangelion-card) ! Thank you !
 
 ## Installation
 
